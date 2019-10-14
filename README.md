@@ -1,2 +1,2 @@
 # HacktoberFest
-Simple Repofor HacktoberFest
+Simple Repo for HacktoberFest
